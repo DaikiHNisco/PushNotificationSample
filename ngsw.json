@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/PushNotificationSample/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.c2a5fbf022ce8fdc1e4a.js",
-        "/polyfills.a90bbc8819e5a70d9c13.js",
-        "/runtime.ec2944dd8b20ec099bf3.js",
-        "/styles.b9a169c84d06a8c70754.css"
+        "/PushNotificationSample/favicon.ico",
+        "/PushNotificationSample/index.html",
+        "/PushNotificationSample/main.ca0a6c628315d21364da.js",
+        "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js",
+        "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js",
+        "/PushNotificationSample/styles.b9a169c84d06a8c70754.css"
       ],
       "patterns": []
     },
@@ -21,36 +21,36 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/scripts/sendnotification3.js"
+        "/PushNotificationSample/assets/icons/icon-128x128.png",
+        "/PushNotificationSample/assets/icons/icon-144x144.png",
+        "/PushNotificationSample/assets/icons/icon-152x152.png",
+        "/PushNotificationSample/assets/icons/icon-192x192.png",
+        "/PushNotificationSample/assets/icons/icon-384x384.png",
+        "/PushNotificationSample/assets/icons/icon-512x512.png",
+        "/PushNotificationSample/assets/icons/icon-72x72.png",
+        "/PushNotificationSample/assets/icons/icon-96x96.png",
+        "/PushNotificationSample/assets/scripts/sendnotification3.js"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/scripts/sendnotification3.js": "7b38c8581f1d4e8152866b435070cc571d613d55",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "19147c220a01fa0aa1765169cb384d094c317c9b",
-    "/main.c2a5fbf022ce8fdc1e4a.js": "728d4942ea31a7fed20a77eb6d1b61b0138161bc",
-    "/polyfills.a90bbc8819e5a70d9c13.js": "40c5a8c5ff064fac827e15ce8350a6b8b5e929f0",
-    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.b9a169c84d06a8c70754.css": "440bcc932278967468e58359274b260a774cf8b4"
+    "/PushNotificationSample/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/PushNotificationSample/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/PushNotificationSample/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/PushNotificationSample/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/PushNotificationSample/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/PushNotificationSample/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/PushNotificationSample/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/PushNotificationSample/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/PushNotificationSample/assets/scripts/sendnotification3.js": "7b38c8581f1d4e8152866b435070cc571d613d55",
+    "/PushNotificationSample/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PushNotificationSample/index.html": "ae498053054547de4dda240c299aacd109421a85",
+    "/PushNotificationSample/main.ca0a6c628315d21364da.js": "591982840c5b90a9aa3ab8599b161db1aa242956",
+    "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js": "40c5a8c5ff064fac827e15ce8350a6b8b5e929f0",
+    "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/PushNotificationSample/styles.b9a169c84d06a8c70754.css": "440bcc932278967468e58359274b260a774cf8b4"
   },
   "navigationUrls": [
     {
