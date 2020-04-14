@@ -9,7 +9,7 @@
       "urls": [
         "/PushNotificationSample/favicon.ico",
         "/PushNotificationSample/index.html",
-        "/PushNotificationSample/main.ca0a6c628315d21364da.js",
+        "/PushNotificationSample/main.1ee18706b924afecae1b.js",
         "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js",
         "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js",
         "/PushNotificationSample/styles.b9a169c84d06a8c70754.css"
@@ -46,8 +46,8 @@
     "/PushNotificationSample/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PushNotificationSample/assets/scripts/sendnotification3.js": "7b38c8581f1d4e8152866b435070cc571d613d55",
     "/PushNotificationSample/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PushNotificationSample/index.html": "ae498053054547de4dda240c299aacd109421a85",
-    "/PushNotificationSample/main.ca0a6c628315d21364da.js": "591982840c5b90a9aa3ab8599b161db1aa242956",
+    "/PushNotificationSample/index.html": "6d4e310d7fa43eb7b743821ccd86549f8f0e6eff",
+    "/PushNotificationSample/main.1ee18706b924afecae1b.js": "992c7d948a308342b9d480f16fdb3aa50d30cff6",
     "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js": "40c5a8c5ff064fac827e15ce8350a6b8b5e929f0",
     "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/PushNotificationSample/styles.b9a169c84d06a8c70754.css": "440bcc932278967468e58359274b260a774cf8b4"
