@@ -1,5 +1,6 @@
 {
   "configVersion": 1,
+  "timestamp": 1586911690353,
   "index": "/PushNotificationSample/index.html",
   "assetGroups": [
     {
@@ -9,10 +10,14 @@
       "urls": [
         "/PushNotificationSample/favicon.ico",
         "/PushNotificationSample/index.html",
-        "/PushNotificationSample/main.1ee18706b924afecae1b.js",
-        "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js",
-        "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js",
-        "/PushNotificationSample/styles.b9a169c84d06a8c70754.css"
+        "/PushNotificationSample/main-es2015.60103198ed74438cbc69.js",
+        "/PushNotificationSample/main-es5.60103198ed74438cbc69.js",
+        "/PushNotificationSample/manifest.webmanifest",
+        "/PushNotificationSample/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/PushNotificationSample/polyfills-es5.1fd9b76218eca8053895.js",
+        "/PushNotificationSample/runtime-es2015.1eba213af0b233498d9d.js",
+        "/PushNotificationSample/runtime-es5.1eba213af0b233498d9d.js",
+        "/PushNotificationSample/styles.26ca735635b5fc9b9755.css"
       ],
       "patterns": []
     },
@@ -28,8 +33,7 @@
         "/PushNotificationSample/assets/icons/icon-384x384.png",
         "/PushNotificationSample/assets/icons/icon-512x512.png",
         "/PushNotificationSample/assets/icons/icon-72x72.png",
-        "/PushNotificationSample/assets/icons/icon-96x96.png",
-        "/PushNotificationSample/assets/scripts/sendnotification3.js"
+        "/PushNotificationSample/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -44,13 +48,16 @@
     "/PushNotificationSample/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/PushNotificationSample/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PushNotificationSample/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/PushNotificationSample/assets/scripts/sendnotification3.js": "7b38c8581f1d4e8152866b435070cc571d613d55",
-    "/PushNotificationSample/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PushNotificationSample/index.html": "6d4e310d7fa43eb7b743821ccd86549f8f0e6eff",
-    "/PushNotificationSample/main.1ee18706b924afecae1b.js": "992c7d948a308342b9d480f16fdb3aa50d30cff6",
-    "/PushNotificationSample/polyfills.a90bbc8819e5a70d9c13.js": "40c5a8c5ff064fac827e15ce8350a6b8b5e929f0",
-    "/PushNotificationSample/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/PushNotificationSample/styles.b9a169c84d06a8c70754.css": "440bcc932278967468e58359274b260a774cf8b4"
+    "/PushNotificationSample/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/PushNotificationSample/index.html": "839c558aaca306ac2be4a6acabbe1ca7f8f7b38d",
+    "/PushNotificationSample/main-es2015.60103198ed74438cbc69.js": "471bb02b0bdec7586a79e3f9d3cf94a6605fd991",
+    "/PushNotificationSample/main-es5.60103198ed74438cbc69.js": "d051b8f78281dbadcc8ea54b7780f286465ebcdb",
+    "/PushNotificationSample/manifest.webmanifest": "bd09d690c857f3ea3d1c92286cd968b27db88c63",
+    "/PushNotificationSample/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/PushNotificationSample/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "/PushNotificationSample/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/PushNotificationSample/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/PushNotificationSample/styles.26ca735635b5fc9b9755.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
   },
   "navigationUrls": [
     {
