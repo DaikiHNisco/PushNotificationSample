@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587019355321,
+  "timestamp": 1587020195148,
   "index": "/PushNotificationSample/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/PushNotificationSample/favicon.ico",
         "/PushNotificationSample/index.html",
-        "/PushNotificationSample/main-es2015.ced9ebc49b8c691b5cee.js",
-        "/PushNotificationSample/main-es5.ced9ebc49b8c691b5cee.js",
+        "/PushNotificationSample/main-es2015.9319cc97d0024386ce7c.js",
+        "/PushNotificationSample/main-es5.9319cc97d0024386ce7c.js",
         "/PushNotificationSample/manifest.webmanifest",
         "/PushNotificationSample/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/PushNotificationSample/polyfills-es5.1fd9b76218eca8053895.js",
@@ -49,9 +49,9 @@
     "/PushNotificationSample/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PushNotificationSample/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PushNotificationSample/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/PushNotificationSample/index.html": "b534782ea8cf42dab1377f94ef3c9e71f3d22077",
-    "/PushNotificationSample/main-es2015.ced9ebc49b8c691b5cee.js": "f9343e794586a890db255c4f30fc266db3ac3fac",
-    "/PushNotificationSample/main-es5.ced9ebc49b8c691b5cee.js": "ad6f99105cf78a4da049f1a2b0e228c376da43f3",
+    "/PushNotificationSample/index.html": "52c29a3fe95f02261e86073d6bd5ecc9223b1b3b",
+    "/PushNotificationSample/main-es2015.9319cc97d0024386ce7c.js": "8c16805fcb888920d256b5ae8a814605aabd50bd",
+    "/PushNotificationSample/main-es5.9319cc97d0024386ce7c.js": "dcab214aa040865368efc3bd815c8e576c74d167",
     "/PushNotificationSample/manifest.webmanifest": "bd09d690c857f3ea3d1c92286cd968b27db88c63",
     "/PushNotificationSample/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/PushNotificationSample/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
